@@ -1,0 +1,1 @@
+let nameWithWhitespace = "\t\n John Doe \t\n"; console.log(nameWithWhitespace); console.log(nameWithWhitespace.trim());

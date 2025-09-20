@@ -1,0 +1,1 @@
+let name10 = "Alice"; console.log(5 + 5); console.log(`Hello, ${name10}!`);
